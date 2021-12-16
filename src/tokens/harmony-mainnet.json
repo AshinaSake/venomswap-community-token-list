@@ -246,5 +246,13 @@
     "name": "HarmonApe",
     "decimals": 9,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/APE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x9910BB247Ad6Fd15DFf45142977E4D865ceA0Eb0",
+    "symbol": "WET",
+    "name": "Wet Ass Pussy",
+    "decimals": 18,
+    "logoURI": "https://i.ibb.co/YckFDH0/WET.png"
   }
 ]
